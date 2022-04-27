@@ -1,4 +1,4 @@
-# Tiny-JS-Projects
+# Tiny-JS-Designs
 All the Small Design Projects with Basic Javascript
 
 |  #  | Project                                                                               | Live Demo                                                             |
